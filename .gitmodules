@@ -1,0 +1,8 @@
+[submodule "Plugins/UEAzSpeech"]
+	path = Plugins/UEAzSpeech
+	url = https://github.com/lucoiso/UEAzSpeech.git
+	branch = main
+[submodule "Plugins/UEHttpGPT"]
+	path = Plugins/UEHttpGPT
+	url = https://github.com/lucoiso/UEHttpGPT.git
+	branch = main
