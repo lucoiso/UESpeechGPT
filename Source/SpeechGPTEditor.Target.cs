@@ -1,6 +1,6 @@
 // Author: Lucas Vilas-Boas
-// Year: 2022
-// Repo: 
+// Year: 2023
+// Repo: https://github.com/lucoiso/UESpeechGPT
 
 using UnrealBuildTool;
 using System.Collections.Generic;
