@@ -1,4 +1,4 @@
-![image](https://user-images.githubusercontent.com/77353979/216823478-1523698c-a41f-41ce-9506-45be4b8f575e.png)
+![image](https://user-images.githubusercontent.com/77353979/216838805-5b1ce128-b518-4b28-96f9-0313726b5e12.png)
 
 # UESpeechGPT
 Example Project that uses both OpenAI GPT-3 and Microsoft Azure Speech Services
