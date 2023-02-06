@@ -3,6 +3,11 @@
 # UESpeechGPT
 Example Project that uses both OpenAI GPT-3 and Microsoft Azure Speech Services
 
+## Links
+* Unreal Forum: [[FREE] SpeechGPT: Example project mixing OpenAI GPT and Microsoft Azure Speech Services](https://forums.unrealengine.com/t/free-speechgpt-example-project-mixing-openai-gpt-and-microsoft-azure-speech-services/764131?u=lucoiso)
+* HttpGPT Plugin: https://github.com/lucoiso/UEHttpGPT
+* AzSpeech Plugin: https://github.com/lucoiso/UEAzSpeech
+
 ## Requirements
 * Visual Studio 2019 or 2022 with the Module: Game Development with C++
 * Unreal Engine 5.1
