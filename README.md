@@ -1,7 +1,7 @@
-![image](https://user-images.githubusercontent.com/77353979/216838805-5b1ce128-b518-4b28-96f9-0313726b5e12.png)
+![image](https://user-images.githubusercontent.com/77353979/222471775-4ce39cdd-aeb5-4988-b234-130643381e60.png)
 
 # UESpeechGPT
-Example Project that uses both OpenAI GPT-3 and Microsoft Azure Speech Services
+Example Project that uses both OpenAI GPT and Microsoft Azure Speech Services
 
 ## Links
 * Unreal Forum: [[FREE] SpeechGPT: Example project mixing OpenAI GPT and Microsoft Azure Speech Services](https://forums.unrealengine.com/t/free-speechgpt-example-project-mixing-openai-gpt-and-microsoft-azure-speech-services/764131?u=lucoiso)
