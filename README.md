@@ -1,6 +1,7 @@
-![image](https://user-images.githubusercontent.com/77353979/222471775-4ce39cdd-aeb5-4988-b234-130643381e60.png)
+# Unreal Engine Project: SpeechGPT
 
-# UESpeechGPT
+![image](https://user-images.githubusercontent.com/77353979/226224009-b3f06752-4425-4539-8ba0-a40634f562e2.png)
+
 Example Project that uses both OpenAI GPT and Microsoft Azure Speech Services
 
 ## Links
