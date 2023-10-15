@@ -11,7 +11,7 @@ Example Project that uses both OpenAI GPT and Microsoft Azure Speech Services
 
 ## Requirements
 * Visual Studio 2019 or 2022 with the Module: Game Development with C++
-* Unreal Engine 5.2
+* Unreal Engine 5.3
 * Git with Git LFS
 
 ## Installation
